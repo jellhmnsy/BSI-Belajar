@@ -1,0 +1,47 @@
+h2 {
+    color: green;
+    text-align: center;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(246, 246, 255);
+    color: rgb(208, 85, 85);
+    padding: 20px 10px;
+    border-radius: 10%;
+    /*
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+    padding-left:  50px;*/
+    margin: 5px;
+ 
+  }
+  
+  .title {
+    color: rgb(35, 35, 35);
+  }
+  
+  h3 {
+    color: rgb(23, 23, 23);
+    font-size: 5mm;
+    text-align: center;
+  }
+
+  h4 {
+    color: rgb(61, 61, 61);
+    font-size: ;
+    text-align: center;
+  }
+  
+  #cardParent {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #card2 {
+    position: relative;
+    bottom: 10px;
+  }
